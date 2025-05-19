@@ -1,0 +1,19 @@
+{
+  "id": "876785f7-9bb4-4c14-a810-67d81cbb0aaa",
+  "version": "1.0.0",
+  "platform": "all",
+  "arch": "all",
+  "name": "场记",
+  "logo": "/logo.png",
+  "keywords": [],
+  "devTools": true,
+  "preview": {
+    "mp4,mkv,mov": {
+      "inspector": {
+        "path": "index.html",
+        "height": 100,
+        "multiSelect": false
+      }
+    }
+  }
+}
